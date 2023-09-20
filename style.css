@@ -38,3 +38,7 @@ p {
     text-align: center;
 }
 
+#mono, #planta {
+    column-count: 2;
+    column-gap: 0px; 
+}
