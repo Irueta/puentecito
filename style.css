@@ -1,20 +1,16 @@
 * {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-   
 }
 
 header {
     text-align: center;
     background-image: url("./img/fondo.jpg")
 }
-body{
-
-}
 
 section > article{
     margin: 10px;
     padding: 5px;
-    
+    border-style: dotted;
     background-color: antiquewhite;
     
     
